@@ -1,0 +1,10 @@
+{
+ "name": "china music",
+ "displayName": "china music partiya",
+ "author": "filipok mododel(for nazar)",
+ "description": "музыка китайской партии",
+ "version": "1",
+
+ "minGameVersion": "146",
+ "dependencies": []
+}
